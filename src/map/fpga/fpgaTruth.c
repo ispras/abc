@@ -18,6 +18,7 @@
 
 #include "fpgaInt.h"
 #include "bdd/cudd/cudd.h"
+#include "bdd/cudd/cuddInt.h"
 
 ABC_NAMESPACE_IMPL_START
 
